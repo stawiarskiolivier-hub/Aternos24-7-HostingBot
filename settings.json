@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/register sussyolivier sussyolivier",
-        "/login sussyolivier sussyolivier",
-        "nie zabijac mnie!"
+        
       ]
     },
     "chat-log": true,
